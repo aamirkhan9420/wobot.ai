@@ -1,8 +1,9 @@
 # Wobot.ai
 Live link https://wobot-tau.vercel.app
 <div width="100%">
+![wobot ai](https://user-images.githubusercontent.com/101388992/218246168-0ad79342-fd04-4606-abb4-a03a52cf3e3f.png)
 
-![wobot](https://user-images.githubusercontent.com/101388992/218246097-e9d93143-4d72-48f8-883b-d9407c361f1e.png)
+
 
 </div>
 
