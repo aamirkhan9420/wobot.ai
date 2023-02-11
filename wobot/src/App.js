@@ -1,11 +1,11 @@
 
 import './App.css';
-import Wobotpage from './components/Wobotpage';
+import AllRoutes from './components/routes/AllRoutes';
 
 function App() {
   return (
     <div className="App">
-    <Wobotpage />
+  <AllRoutes />
     </div>
   );
 }
